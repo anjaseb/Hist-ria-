@@ -19,4 +19,8 @@ p{
     color: rgba(255, 255, 255, 1);
     font-family: Georgia, Times, 'Times New Roman', serif;
     border-radius: 20px;
+  text-align: justify;
+  text-indent: 1em;
+  line-height: 1.7em;
+  border-bottom: 1px solid #ccc;
 }
