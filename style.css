@@ -29,7 +29,7 @@ h1{
 			text-align: center;
 			font-size: 50px;
 			animation: roll 6s linear infinite;
-		  color: rgba(94, 0, 0, 1);
+		  color: hsla(360, 0%, 56%, 1);
 		}
 		@keyframes roll {
 			from {
