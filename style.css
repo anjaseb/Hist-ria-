@@ -7,11 +7,11 @@ body {
 }
 
 p {
-  color:rgba(39, 0, 255, 1);
+  color:rgba(255, 255, 255, 1);
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
 }
 h1{
-  color:hsla(316, 100%, 50%, 1);
+  color:hsla(235, 100%, 50%, 1);
   font-family: 'Times New Roman', Times, serif;
   border-radius: 40px;
 }
