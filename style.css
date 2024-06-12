@@ -84,5 +84,5 @@ button {
   width: 100px;
   border: 2px solid black;
   border-radius: 20px;
-  background-color:hsla(325, 100%, 50%, 1);
+  background-color:rgba(0, 125, 122, 1);
 }
