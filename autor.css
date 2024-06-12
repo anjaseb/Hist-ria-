@@ -1,0 +1,25 @@
+h1 {
+  text-align: center;
+  color:rgba(0, 125, 122, 1);
+}
+body {
+  background-color:rgba(0, 37, 36, 1);
+  border: 1px solid rgba(164, 245, 169, 1);
+  width: 16pc;
+  border-radius: 40px;
+  
+  
+}
+div {
+  border: 10px solid rgba(112, 112, 112, 1);
+  margin: 40px;
+  border-radius: 50px; 
+  font-size: 30px;
+  border-right: 20px;
+  border-top: 40px;
+  
+  
+}
+a {
+  color:rgba(0, 129, 143, 1);
+}
