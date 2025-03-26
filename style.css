@@ -1,7 +1,7 @@
 body {
   background-image: url('mundo1.jpg');
   background-size: cover;
-  background-position: auto;
+  background-position: 0vw;
   background-blend-mode: soft-light;
   backgroung-repeat: no-repeat;
   
